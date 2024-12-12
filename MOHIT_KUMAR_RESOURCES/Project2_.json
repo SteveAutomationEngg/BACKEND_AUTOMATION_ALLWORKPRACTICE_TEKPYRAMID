@@ -1,0 +1,10 @@
+{
+"projectName" : "Minion_01",
+"projectstatus": "created",
+"teamSize" : 10,
+"teamMember": ["rama","shyama","baba"],
+"projectManager" :{
+                                          "name": "dharamNarayan",
+                                          "empID": "tp06"
+                                     }
+}
